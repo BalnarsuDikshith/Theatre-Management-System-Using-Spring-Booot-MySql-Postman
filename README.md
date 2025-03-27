@@ -46,3 +46,5 @@ Method	Endpoint	Description
 POST	/branches	Add a new branch
 GET	/branches	Fetch all branches
 GET	/branches/{id}/address	Get branch address
+
+--> Test APIs in Postman using http://localhost:8080
