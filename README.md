@@ -19,7 +19,6 @@ API Testing: Postman
 
 ORM: Hibernate
 
-Security: (Optional) JWT Authentication
 
 🚀 API Endpoints
 
