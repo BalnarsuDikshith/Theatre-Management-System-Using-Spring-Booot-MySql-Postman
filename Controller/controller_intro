@@ -1,0 +1,2 @@
+in this file we create a classes and annoted with @RestController it will responseble to handel restful Apis(Representation state Transfer Api)it will get  data from server or it will add data  from and gives to 
+Service classes and services classes will give data to dao classes and dao classes will perform operation in database
