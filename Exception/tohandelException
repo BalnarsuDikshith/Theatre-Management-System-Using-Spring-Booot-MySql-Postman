@@ -1,0 +1,2 @@
+it is reposonible to handel Exception .to get proper response in postman and to advoid exception in postman 
+by annotating @RestControllerAdvice to class in that create method to to handel exception by annotating 2ExceptionHandeller(passes class here)
