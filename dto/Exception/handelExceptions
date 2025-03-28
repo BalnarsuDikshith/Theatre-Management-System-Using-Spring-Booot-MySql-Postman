@@ -1,0 +1,3 @@
+it helps to create classes and extends RunTimeExceptions
+beacause while fetching data or updating data through postMan and  if there is no data to fetch from data it will get exception to advoid expection we will create this class
+if to get proper response in postMan 
