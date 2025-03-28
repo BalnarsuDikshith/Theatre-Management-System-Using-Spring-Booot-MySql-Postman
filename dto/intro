@@ -1,1 +1,4 @@
 it helps to create tables in database
+by Annotating @Entity to class it is a class level annotation
+and adding @Id to one of the attribute to assign primary key to it
+if you want auto generate primary key you must add @GeneratedValue(strategy=GenerationType.Identity)
