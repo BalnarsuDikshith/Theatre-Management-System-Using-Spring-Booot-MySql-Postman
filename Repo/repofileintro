@@ -1,0 +1,2 @@
+create interface and extends JpaRepository
+it helps to extends the jparepository interface to perform crud operation in database
