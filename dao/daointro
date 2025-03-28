@@ -1,0 +1,4 @@
+dao class is annotated with @Repository it helps to communicate with database
+in this we inject object  from repo interface to do crud operation in database
+  
+  
